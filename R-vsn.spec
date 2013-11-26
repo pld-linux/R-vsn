@@ -2,13 +2,13 @@
 
 Summary:	Variance stabilization and calibration for microarray data
 Name:		R-%{packname}
-Version:	3.26.0
+Version:	3.30.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	dc3543c14aa178d9f7a3fa4ee45fb43c
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	81388e1ba615aeac7566847a3bc5fc23
+URL:		http://bioconductor.org/packages/release/bioc/html/vsn.html
 BuildRequires:	R
 BuildRequires:	R-Biobase
 BuildRequires:	R-limma
